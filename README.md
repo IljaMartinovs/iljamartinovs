@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilja Martinovs</h1>
-<h3 align="center">A passionate software developer from Latvia</h3>
+<h3 align="center">A passionate PHP developer from Latvia</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 📫 How to reach me **martinovsilja@gmail.com**
